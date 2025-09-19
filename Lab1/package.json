@@ -7,5 +7,6 @@
   },
   "author": "Muhammed",
   "license": "ISC",
-  "description": "Node.js lab"
+  "description": "Node.js lab",
+  "type": "module"
 }
